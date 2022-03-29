@@ -1,2 +1,3 @@
-# BeautifulStories
-Collections of beautiful stories in science, technology...
+# 伟大的科学，美丽的故事
+
+收集科学史上的那些有趣故事。
